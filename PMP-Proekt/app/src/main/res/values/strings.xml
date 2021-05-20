@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="tvWelcome">Welcome</string>
+    <string name="tvForgotPassword">Forgot Password?</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvOr">Or</string>
+    <string name="btnAnonymous">Continue as Anonymous</string>
+    <string name="btnGmail">Sign in with Google</string>
+    <string name="btnFacebook">Sign in with Facebook</string>
+    <string name="tvRegister">New user? Register</string>
+    <string name="tvReg">Register</string>
+    <string name="btnReg">Register</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintFullName">Full Name</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+    <string name="mainPageButton">Logout</string>
+    <string name="mainPageUser">user</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="hintEnterEmail">Enter Account Email</string>
+    <string name="btnResetPassword">Reset Password</string>
+    <string name="btnRegisterMP">Register</string>
+</resources>

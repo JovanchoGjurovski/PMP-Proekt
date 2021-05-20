@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62621597241",
+    "project_id": "tv-shows-and-movies-list",
+    "storage_bucket": "tv-shows-and-movies-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62621597241:android:c75338de4085d0943d97e8",
+        "android_client_info": {
+          "package_name": "com.example.android.tvshowsandmovieslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62621597241-9un5rv09tnqv2jr5f54smlhqbodbs5c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAymZK-yCtTR43ZoplQwIdpFYVkSrozP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62621597241-9un5rv09tnqv2jr5f54smlhqbodbs5c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
